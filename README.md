@@ -10,11 +10,11 @@ Build a front-end web application that fulfills the following requirements:
 * Demonstrate implementation of asynchronous programming concepts like promises, callbacks, event handlers
 * Pick an API for your project and apply your asynchronous programming skills to call the required API in your project
 
-### Tech Stack:
+### Tech Stack
 * HTML/CSS/Sass/JavaScript
 * FoodData Central API
 * Plotly Charting Library
 
-## Co-Authors:
+## Co-Authors
 * Silvia Hua (@silvhua)
 * Shruti Srinivasan (@srinivasanshruti)
