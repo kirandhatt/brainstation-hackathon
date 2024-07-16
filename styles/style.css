@@ -1,0 +1,110 @@
+* {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+  padding: 1rem 2rem;
+}
+
+h2 {
+  text-align: left;
+  color: #832161;
+  padding: 1rem 0rem;
+  font-size: 1.5rem;
+}
+
+h3, th {
+  text-align: left;
+  color: #832161;
+  padding: 1rem 0rem;
+  font-size: 1rem;
+}
+
+.vertical-row {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(../assets/hero_image.jpeg) #3d2645;
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 10rem;
+}
+
+.hero {
+  font-size: 32px;
+  text-align: center;
+  padding: 2rem;
+  color: #F0EFF4;
+}
+
+label {
+  color: #DA4167;
+  font-size: 14px;
+  padding: 0rem 0.5rem 0rem 0rem;
+}
+
+#food-search {
+  border: #3d2645 solid 0.125rem;
+  border-radius: 0.25rem;
+  height: 1.5rem;
+}
+
+button {
+  background-color: #DA4167;
+  color: white;
+  border-radius: 0.25rem;
+  border: #832161 solid 0.125rem;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 0.25rem;
+}
+
+#addToPlate {
+  width: 25%;
+  margin: 1rem 0;
+}
+
+.results__field {
+  text-align: left;
+  font-size: 18px;
+  color: #832161;
+}
+.results__description {
+  font-size: 14px;
+  text-align: left;
+}
+
+.user-input__submit-button:hover {
+  color: #f6ccd7;
+}
+
+.selected {
+  color: #DA4167;
+}
+
+.plate__list {
+  padding: 0rem 0rem 0rem;
+  text-align: left;
+  font-size: 18px;
+  color: #832161;
+}
+.plate__item {
+  font-size: 14px;
+  padding: 0rem 0rem 0.5rem;
+  text-align: left;
+  color: #DA4167;
+}/*# sourceMappingURL=style.css.map */

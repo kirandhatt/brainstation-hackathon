@@ -1,0 +1,640 @@
+[
+  {
+    "fdcId": 172476,
+    "description": "Tofu, raw, regular, prepared with calcium sulfate",
+    "publicationDate": "4/1/2019",
+    "foodNutrients": [
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "id": 1698168,
+        "amount": 8.08,
+        "dataPoints": 44
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "id": 1698160,
+        "amount": 4.78,
+        "dataPoints": 8
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 1698145,
+        "amount": 1.87,
+        "dataPoints": 0
+      }
+    ],
+    "foodPortions": [
+      {
+        "id": 90685,
+        "gramWeight": 124,
+        "sequenceNumber": 1,
+        "amount": 0.5,
+        "modifier": "cup",
+        "measureUnit": {
+          "id": 9999,
+          "name": "undetermined",
+          "abbreviation": "undetermined"
+        }
+      },
+      {
+        "id": 90686,
+        "gramWeight": 116,
+        "sequenceNumber": 2,
+        "amount": 0.25,
+        "modifier": "block",
+        "measureUnit": {
+          "id": 9999,
+          "name": "undetermined",
+          "abbreviation": "undetermined"
+        }
+      }
+    ],
+    "dataType": "SR Legacy",
+    "foodClass": "FinalFood",
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [
+      {
+        "id": 14774,
+        "proteinValue": 3.47,
+        "fatValue": 8.37,
+        "carbohydrateValue": 4.07,
+        "type": ".CalorieConversionFactor",
+        "name": "Calories From Proximates"
+      },
+      {
+        "id": 20227,
+        "value": 6.25,
+        "type": ".ProteinConversionFactor",
+        "name": "Protein From Nitrogen"
+      }
+    ],
+    "inputFoods": [],
+    "ndbNumber": 16427,
+    "isHistoricalReference": true,
+    "foodCategory": {
+      "id": 16,
+      "code": "1600",
+      "description": "Legumes and Legume Products"
+    }
+  },
+  {
+    "fdcId": 174594,
+    "description": "Luncheon meat, pork and chicken, minced, canned, includes Spam Lite",
+    "publicationDate": "4/1/2019",
+    "foodNutrients": [
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1871680,
+        "amount": 15.23,
+        "dataPoints": 1
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1871650,
+        "amount": 13.9,
+        "dataPoints": 1
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 1871615,
+        "amount": 1.35,
+        "dataPoints": 1
+      }
+    ],
+    "foodPortions": [
+      {
+        "id": 94643,
+        "gramWeight": 56,
+        "sequenceNumber": 1,
+        "amount": 2,
+        "modifier": "oz (1 serving)",
+        "measureUnit": {
+          "id": 9999,
+          "name": "undetermined",
+          "abbreviation": "undetermined"
+        }
+      }
+    ],
+    "dataType": "SR Legacy",
+    "foodClass": "FinalFood",
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [
+      {
+        "id": 15970,
+        "proteinValue": 4.27,
+        "fatValue": 9.02,
+        "carbohydrateValue": 3.87,
+        "type": ".CalorieConversionFactor",
+        "name": "Calories From Proximates"
+      },
+      {
+        "id": 21863,
+        "value": 6.25,
+        "type": ".ProteinConversionFactor",
+        "name": "Protein From Nitrogen"
+      }
+    ],
+    "inputFoods": [],
+    "ndbNumber": 7909,
+    "isHistoricalReference": true,
+    "foodCategory": {
+      "id": 7,
+      "code": "0700",
+      "description": "Sausages and Luncheon Meats"
+    }
+  },
+  {
+    "fdcId": 2646170,
+    "description": "Chicken, breast, boneless, skinless, raw",
+    "publicationDate": "10/26/2023",
+    "foodNutrients": [
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1003,
+          "number": "203",
+          "name": "Protein",
+          "rank": 600,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33295325,
+        "amount": 22.525,
+        "max": 23.375,
+        "min": 21.5625,
+        "median": 22.46875,
+        "nutrientAnalysisDetails": []
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1004,
+          "number": "204",
+          "name": "Total lipid (fat)",
+          "rank": 800,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 1,
+          "code": "A",
+          "description": "Analytical",
+          "foodNutrientSource": {
+            "id": 1,
+            "code": "1",
+            "description": "Analytical or derived from analytical"
+          }
+        },
+        "id": 33295220,
+        "amount": 1.934,
+        "dataPoints": 8,
+        "max": 3.1,
+        "min": 1.31,
+        "median": 1.71,
+        "minYearAcquired": 2023,
+        "nutrientAnalysisDetails": [
+          {
+            "subSampleId": 2647058,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646208,
+                "purchaseDate": "2/27/2023",
+                "storeCity": "Blacksburg",
+                "storeState": "VA",
+                "packerCity": "Cincinnati, OH",
+                "packerState": "OH"
+              }
+            ],
+            "amount": 1.58,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647061,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646210,
+                "purchaseDate": "3/1/2023",
+                "storeCity": "Blacksburg",
+                "storeState": "VA",
+                "packerCity": "Harrisonburg, VA",
+                "packerState": "VA"
+              }
+            ],
+            "amount": 2.39,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647064,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646212,
+                "purchaseDate": "3/1/2023",
+                "storeCity": "Blacksburg",
+                "storeState": "VA",
+                "packerCity": "Salisbury, MD",
+                "packerState": "MD"
+              }
+            ],
+            "amount": 1.55,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647067,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646214,
+                "purchaseDate": "3/6/2023",
+                "storeCity": "Blacksburg",
+                "storeState": "VA",
+                "packerCity": "Baldwin, GA",
+                "packerState": "GA"
+              }
+            ],
+            "amount": 3.1,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647070,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646216,
+                "purchaseDate": "3/9/2023",
+                "storeCity": "Blacksburg",
+                "storeState": "VA",
+                "packerCity": "Cincinnati, OH",
+                "packerState": "OH"
+              }
+            ],
+            "amount": 1.31,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647073,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646218,
+                "purchaseDate": "3/13/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Bentonville, AR",
+                "packerState": "AR"
+              }
+            ],
+            "amount": 2.39,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647076,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646220,
+                "purchaseDate": "3/17/2023",
+                "storeCity": "Wytheville",
+                "storeState": "VA",
+                "packerCity": "Springdale, AR",
+                "packerState": "AR"
+              }
+            ],
+            "amount": 1.84,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          },
+          {
+            "subSampleId": 2647079,
+            "nutrientId": 1004,
+            "nutrientAcquisitionDetails": [
+              {
+                "sampleUnitId": 2646222,
+                "purchaseDate": "4/3/2023",
+                "storeCity": "Christiansburg",
+                "storeState": "VA",
+                "packerCity": "Baldwin, GA",
+                "packerState": "GA"
+              }
+            ],
+            "amount": 1.31,
+            "labMethodTechnique": "Acid hydrolysis",
+            "labMethodDescription": "AOAC 989.05 mod",
+            "labMethodOriginalDescription": "Silliker modified 989.05 (33.2.26) Fat in Milk, Mojo, Acid Hydrolysis",
+            "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+          }
+        ]
+      },
+      {
+        "type": "FoodNutrient",
+        "nutrient": {
+          "id": 1005,
+          "number": "205",
+          "name": "Carbohydrate, by difference",
+          "rank": 1110,
+          "unitName": "g"
+        },
+        "foodNutrientDerivation": {
+          "id": 49,
+          "code": "NC",
+          "description": "Calculated",
+          "foodNutrientSource": {
+            "id": 2,
+            "code": "4",
+            "description": "Calculated or imputed"
+          }
+        },
+        "id": 33295326,
+        "amount": -0.368,
+        "nutrientAnalysisDetails": []
+      }
+    ],
+    "dataType": "Foundation",
+    "foodClass": "FinalFood",
+    "inputFoods": [
+      {
+        "id": 124023,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646209,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 124020,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646221,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 124015,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646223,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 123990,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646219,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 123988,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646213,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 123986,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646211,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 123985,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646217,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      },
+      {
+        "id": 123983,
+        "foodDescription": "chicken, breast, boneless, skinless",
+        "inputFood": {
+          "fdcId": 2646215,
+          "description": "chicken, breast, boneless, skinless",
+          "publicationDate": "10/26/2023",
+          "foodAttributeTypes": [],
+          "foodClass": "Composite",
+          "totalRefuse": 0,
+          "dataType": "Sample",
+          "foodGroup": {
+            "id": 5,
+            "code": "0500",
+            "description": "Poultry Products"
+          }
+        }
+      }
+    ],
+    "foodComponents": [],
+    "foodAttributes": [],
+    "nutrientConversionFactors": [
+      {
+        "id": 23058,
+        "value": 6.25,
+        "type": ".ProteinConversionFactor",
+        "name": "Protein From Nitrogen"
+      },
+      {
+        "id": 23050,
+        "proteinValue": 4.27,
+        "fatValue": 9.02,
+        "carbohydrateValue": 3.87,
+        "type": ".CalorieConversionFactor",
+        "name": "Calories From Proximates"
+      }
+    ],
+    "ndbNumber": 100304,
+    "isHistoricalReference": false,
+    "foodCategory": {
+      "id": 5,
+      "code": "0500",
+      "description": "Poultry Products"
+    }
+  }
+]

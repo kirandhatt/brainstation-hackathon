@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="./styles/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+    <script src="./scripts/main.js" type="module" defer></script>
+    <title>Protein Planner - Home</title>
+</head>
+
+<body>
+    <header>
+        <h1 class="hero">Protein Planner</h1>
+    </header>
+    <main>
+        <section>
+            <form id="searchForm">
+                <label for="food-search">Search the food database:</label>
+                <input type="search" id="food-search" name="searchBox" />
+                <button type="submit">Search</button>
+            </form>
+            <div class="results-container">
+                
+            </div>
+            <div>
+                <form id="plateForm">
+                    <!-- <button id="addToPlate" type="submit">Add to Plate</button> -->
+                </form></div>
+            
+            <div class="plate">
+                <h2>My Plate Details</h2>
+                <div class="plate__list">
+                    <!-- <div class="plate__item">Plate items here</div> -->
+                </div>
+            </div>
+            <div class="plots-container"></div>
+        </section>
+
+    </main>
+    <footer>
+
+    </footer>
+</body>
+
+</html>
